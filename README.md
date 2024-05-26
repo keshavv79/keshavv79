@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Keshav!<br><br>👋 2nd year Student studying Electronics and Communication Engineering in IIIT Bangalore. <br/><br>😺 Currently exploring Fall Detection and Prevention in Older People, and a bit of Machine Learning. <br/><br>🎮 Playing FIFA if not coding, or working on some project :) <br/>
+ Hi, I'm Keshav!<br><br>👋 2nd year Student studying Electronics and Communication Engineering in IIIT Bangalore. <br/><br>😺 Currently exploring the area of IOT for wearables, and a bit of Machine Learning. <br/><br>🎮 Playing FIFA if not coding, or working on some project :) <br/>
 
 
 # 💻 Tech Stack:
