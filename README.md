@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Keshav!<br><br>👋4th year Student studying Electronics and Communication Engineering in IIIT Bangalore. <br/><br>😺 Currently exploring a bit of Machine Learning. <br/><br>🎮 Playing FIFA if not coding, or working on some project :) <br/>
+ Hi, I'm Keshav!<br><br>👋4th year Student studying Electronics and Communication Engineering in IIIT Bangalore. <br/><br>😺 Currently exploring VLSI domain and integration of machine learning into it.<br/>
 
 
 # 💻 Tech Stack:
